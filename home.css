@@ -6,8 +6,9 @@
     color:black
     flex-direction: row;
 }
-.table{
+.table th,td{
     text-align: center;
+    margin-top:5%;
 }
 .main{
     display: flex;
@@ -61,7 +62,7 @@
 .footer{
     display: flex;
     text-align: center;
-    margin-top:18%;
+    margin-top:12%;
     background-color:lightseagreen;
     color:black;
     width: 100%;
